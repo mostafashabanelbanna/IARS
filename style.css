@@ -15,7 +15,7 @@ html {
 }
 
 .brand-logo {
-  height: 3.6rem;
+  height: 4.6rem;
 }
 .navbar.scrolled {
   background-color: #212529 !important;
@@ -76,6 +76,13 @@ html {
   border-radius: 50%;
   width: 12px;
   height: 12px;
+}
+
+/* Cards */
+
+.card img {
+  min-height: 16rem;
+  width: 100%;
 }
 
 /* Correcting Sections */
