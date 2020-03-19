@@ -57,13 +57,14 @@ html {
 }
 
 .carousel-item img {
+  filter: brightness(50%);
   height: 100%;
   width: 100%;
 }
 
 .carousel-caption {
   top: 30%;
-  color: #343a40;
+  color: #fff;
 }
 
 .carousel-caption .btn {
