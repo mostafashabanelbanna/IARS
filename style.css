@@ -155,6 +155,28 @@ html {
   filter: brightness(70%);
 }
 
+/* Location */
+.map-container {
+  padding: 0;
+  height: 18rem;
+}
+
+.map {
+  height: 100%;
+}
+
+.location {
+  background-color: #e9ecef;
+}
+
+.location h4 {
+  margin: 1rem;
+}
+
+.location p {
+  padding-right: 1rem;
+}
+
 /* Footer */
 
 footer {
@@ -162,9 +184,6 @@ footer {
   color: #d5d5d5;
   padding: 1rem;
 }
-
-/* About */
-/* Message */
 
 .greeny {
   color: #00c600;
