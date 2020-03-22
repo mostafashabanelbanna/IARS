@@ -7,6 +7,25 @@
 html {
   scroll-behavior: smooth;
 }
+/*  */
+.heading-container {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 120, 47, 1) 0%,
+    rgba(224, 248, 224, 1) 34%,
+    rgba(224, 248, 224, 1) 65%,
+    rgba(0, 120, 47, 1) 100%
+  );
+}
+
+.heading {
+  height: 18rem;
+}
+
+.heading img {
+  height: 100%;
+  width: auto;
+}
 
 /* Navbr */
 
