@@ -50,7 +50,7 @@ html {
   border-bottom: 1.2px solid;
 }
 
-.en a:hover {
+.lang a:hover {
   color: #c3c3e5;
   border-bottom: none !important;
 }
